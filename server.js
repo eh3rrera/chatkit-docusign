@@ -156,7 +156,7 @@ app.get('/sign/:userID', (req, res) => {
         res.status(401).send({ error_description: err });
       }
       console.log('EnvelopeSummary: ' + JSON.stringify(envelopeSummary));
-      res.send(200);
+      res.status(200).send({});
     });
   } else {
     res.status(401).send({ error_description: "The user doesn't exist" });
