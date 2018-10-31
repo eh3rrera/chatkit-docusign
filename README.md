@@ -1,6 +1,6 @@
 # E-signatures in chats with ChatKit and Docusign
 
-Chat build with React and [Chatkit](https://pusher.com/chatkit) that uses a Node.js server to post messages. However, users can only post messages after signing a document using [Docusign API](https://www.docusign.com/). Follow the tutorial [here](#).
+Chat build with React and [Chatkit](https://pusher.com/chatkit) that uses a Node.js server to post messages. However, users can only post messages after signing a document using [Docusign API](https://www.docusign.com/). Follow the tutorial [here](https://pusher.com/tutorials/esignatures-chatkit-docusign).
 
 ## Getting Started
 
